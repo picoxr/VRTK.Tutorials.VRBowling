@@ -15,4 +15,3 @@
 ## Introduction
    - A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.
      ![ ](https://github.com/picoxr/VRTK.Tutorials.VRBowling/blob/main/ScreenShots/Screenshot_com.Pico.VRTK.Tutorials.VRBowling_2022.08.12-19.56.16.801_247.jpeg)
-     ![ ](https://github.com/picoxr/VRTK.Tutorials.VRBowling/blob/main/ScreenShots/Screenshot_com.Pico.VRTK.Tutorials.VRBowling_2022.08.12-19.56.50.840_451.jpeg)
