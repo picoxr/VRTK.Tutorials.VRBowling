@@ -40,7 +40,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.inputsystem": {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -106,11 +106,11 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "2.0.2",
+      "version": "2.1.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.inputsystem": "1.2.0",
+        "com.unity.inputsystem": "1.3.0",
         "com.unity.ugui": "1.0.0",
         "com.unity.xr.core-utils": "2.0.0",
         "com.unity.xr.legacyinputhelpers": "2.1.8",
@@ -144,7 +144,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:Pico Unity Integration SDK-2.0.5",
+      "version": "file:PICO Unity Integration SDK v211",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
